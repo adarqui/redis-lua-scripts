@@ -6,6 +6,9 @@ Just some random lua scripts for redis.
 
 					returns: 0 (success), 1 (failure)
 
+
+		argstohashes - given a string of hash names separated by ',' -> return hgetall for each
+
 		...
 
 			...
